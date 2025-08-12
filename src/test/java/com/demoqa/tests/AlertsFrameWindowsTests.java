@@ -26,6 +26,7 @@ public class AlertsFrameWindowsTests extends TestBase {
 
     }
 
+
     @Test
     public void waitAlertTest() {
         sidePanel.selectAlerts();
